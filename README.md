@@ -1,14 +1,14 @@
-## 👋 Hello! Welcome to my Github profile. 
+## Hello! Welcome to my Github profile. 
 
 - 😄 My name is Guilherme Nobrega. I'm from Brazil.
   
 - 🔭 I am currently free to work!
   
-- 🌱 I am currently learning Java Script
+- 🌱 Learning Java Script and its properties at this time
   
-- 👯 I'm looking to collaborate on front-end projects
+- 👯 Looking to collaborate on front-end projects
   
-- 🤔 I'm looking for help with the best method to learn JS frameworks
+- 🤔 Seeking for help with the best method to learn JS frameworks
   
 - ⚡ Curiosity: I love games and sports!
 

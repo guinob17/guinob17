@@ -28,6 +28,8 @@
 ##
 
 <div>
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guinob17&layout=donut"/>
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=guinob17&show_icons=true&theme=radical"/>
+<img loading="lazy" width="420px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guinob17&layout=pie"/>
+</div>
+<div>
+<img loading="lazy" width="420px" height="200em" src="https://github-readme-stats.vercel.app/api?username=guinob17&show_icons=true&theme=radical"/>
 </div>

@@ -2,13 +2,13 @@
 
 - 😄 My name is Guilherme Nobrega. I'm from Brazil.
   
-- 🔭 I am currently free to work!
+- 🔭 I am currently working as trainee fullstack dev!
   
-- 🌱 Learning Java Script and its properties at this time
+- 🌱 Learning Laravel, React and its properties at this time.
   
-- 👯 Looking to collaborate on front-end projects
+- 👯 Looking to collaborate on fullstack projects
   
-- 🤔 Seeking for help with the best method to learn JS frameworks
+- 🤔 Seeking for help with the best methods. 
   
 - ⚡ Curiosity: I love games and sports!
 

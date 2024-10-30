@@ -2,11 +2,11 @@
 
 - 😄 My name is Guilherme Nobrega. I'm from Brazil.
   
-- 🔭 I am currently working as trainee fullstack dev!
+- 🔭 I am currently working as trainee fullstack developer!
   
-- 🌱 Learning Laravel, React and its properties at this time.
+- 🌱 Learning Adianti, Django and its properties at this time.
   
-- 👯 Looking to collaborate on fullstack projects
+- 👯 Looking to collaborate on fullstack projects.
   
 - 🤔 Seeking for help with the best methods. 
   

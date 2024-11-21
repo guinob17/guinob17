@@ -44,9 +44,7 @@
 
 ## 💬 **Connect with Me!**
 
-<div align="center">
-  🌐 [LinkedIn](https://www.linkedin.com/in/guinob17/)  
-  📧 **Email:** guilherme.bulhoes_@hotmail.com  
-</div>
+  - 🌐 [LinkedIn](https://www.linkedin.com/in/guinob17/)  
+  - 📧 **Email:** guilherme.bulhoes_@hotmail.com  
 
 ---

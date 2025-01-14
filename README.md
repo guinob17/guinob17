@@ -9,7 +9,7 @@
 ## 🚀 **What I'm Doing**  
 - 🔭 **Developing:** Fullstack projects with modern tools and frameworks.  
 - 🌱 **Learning:**  
-  - **Adianti.php Framework**  
+  - **Adianti.php and Laravel.php Frameworks**  
   - **React.js** and its ecosystem.  
 - 👯 **Open to Collaborate:** On innovative projects that make an impact.  
 - 🤔 **Seeking Guidance:** To discover and master **best practices** in development.  

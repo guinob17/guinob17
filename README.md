@@ -29,6 +29,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" alt="React" height="80" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" height="80" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" height="80" />  
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/django-original.svg" alt="TypeScript" height="80" />
 </div>
 
 ---

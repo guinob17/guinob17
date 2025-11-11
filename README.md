@@ -4,6 +4,7 @@
 🔹 From **Brazil**, passionate about coding and technology.  
 🔹 Currently working as a **junior fullstack developer** at Indra.  
 🔹 Graduated in systems analysis and development ✅.
+
 🔹 Postgraduate in software engineering ⏳.
 ---
 

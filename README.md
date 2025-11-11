@@ -3,8 +3,7 @@
 ### 😄 **Hello! I'm Guilherme Nóbrega.**  
 🔹 From **Brazil**, passionate about coding and technology.  
 🔹 Currently working as a **junior fullstack developer** at Indra.  
-🔹 Graduated in systems analysis and development ✅.
-
+🔹 Graduated in systems analysis and development ✅.<br>
 🔹 Postgraduate in software engineering ⏳.
 ---
 

@@ -32,7 +32,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" height="80" />  
 </div>
 
----
+<!-- ---
 
 ## 📊 **My GitHub Stats**
 
@@ -41,7 +41,7 @@
   <img loading="lazy" width="48%" src="https://github-readme-stats.vercel.app/api?username=guinob17&show_icons=true&theme=radical" alt="GitHub Stats" />
   ![Top Linguagens](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=guinob17&layout=compact)
   ![Guinob17 Status](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=guinob17&show_icons=true)
-</div>
+</div> -->
 
 ---
 

@@ -39,6 +39,8 @@
 <div align="center">
   <img loading="lazy" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guinob17&layout=compact&theme=radical" alt="Top Languages" />
   <img loading="lazy" width="48%" src="https://github-readme-stats.vercel.app/api?username=guinob17&show_icons=true&theme=radical" alt="GitHub Stats" />
+  [![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=guinob17&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+  ![Guinob17 Status](https://github-readme-stats.vercel.app/api?username=guinob17&show_icons=true)
 </div>
 
 ---

@@ -37,8 +37,8 @@
 ## 📊 **My GitHub Stats**
 
 <div align="center">
-  <img loading="lazy" width="48%" src="https://github-readme-stats.vercel.app/api?username=guinob17&show_icons=true&theme=radical" alt="GitHub Stats" />
   <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guinob17&layout=donut&theme=radical" alt="Top Languages" />
+  <img loading="lazy" width="48%" src="https://github-readme-stats.vercel.app/api?username=guinob17&show_icons=true&theme=radical" alt="GitHub Stats" />
 </div>
 
 ---

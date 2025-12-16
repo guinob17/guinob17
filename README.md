@@ -37,12 +37,9 @@
 ## 📊 **My GitHub Stats**
 
 <div align="center">
-  <img loading="lazy" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guinob17&layout=compact&theme=radical" alt="Top Languages" />
   <img loading="lazy" width="48%" src="https://github-readme-stats.vercel.app/api?username=guinob17&show_icons=true&theme=radical" alt="GitHub Stats" />
   <!-- GitHub Streak Stats -->
   <img width="48%" src="https://streak-stats.demolab.com?user=guinob17&theme=radical" alt="GitHub Streak" />
-  <!-- Top Languages - Donut -->
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guinob17&layout=donut&theme=radical" alt="Top Languages" />
 </div> 
 
 ---

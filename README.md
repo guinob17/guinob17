@@ -37,11 +37,11 @@
 ## 📊 **My GitHub Stats**
 
 <div align="center">
-  <!-- GitHub Streak Stats -->
-  <img width="48%" src="https://streak-stats.demolab.com?user=guinob17&theme=radical" alt="GitHub Streak" />
+  <!-- GitHub Profile Trophies -->
+  <img width="100%" src="https://github-profile-trophy.vercel.app/?username=guinob17&theme=radical&row=1&no-frame=true" alt="GitHub Trophies" />
   <!-- Top Languages - Donut -->
   <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guinob17&layout=donut&theme=radical" alt="Top Languages" />
-</div> 
+</div>
 
 ---
 
